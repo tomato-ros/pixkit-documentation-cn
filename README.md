@@ -24,6 +24,13 @@ PIXKIT是全球滑板底盘先驱PIX Moving打造的一站式开源自动驾驶�
 
 ## 关注作者
 
+### 微信号
+
+- 微信号：**smartros**
+- 二维码：
+
+![img](image/smartros.jpg "添加《番茄ROS机器人》微信号好友")
+
 ### 公众号
 
 ![img](image/tomato-ros.png "关注公众号《番茄ROS机器人》")
